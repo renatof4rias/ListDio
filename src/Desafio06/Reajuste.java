@@ -12,6 +12,7 @@ public class Reajuste {
         double valor = sc.nextDouble();
         double resultado = valor + (valor * 0.05);
 
+
         System.out.println("Valor Informado com Reajuste de 5% = " + resultado);
         sc.close();
     }
