@@ -4,7 +4,6 @@ package Desafio05;
 usuário ganha e imprima na tela o resultado. (Base para o Salário mínimo R$ 1.293,20).
 */
 
-
 import java.util.Locale;
 import java.util.Scanner;
 
