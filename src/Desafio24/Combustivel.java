@@ -22,7 +22,6 @@ public class Combustivel {
         System.out.println("Distancia = " + distancia);
         System.out.println("Litros = " + litros);
 
-
         sc.close();
     }
 }
